@@ -1,6 +1,4 @@
-//Name: Hetarth Parikh
-//Unit,Lesson,Name of Assignment: Unit 4 Lesson 3, Implementation- The Game
-//Date of Completion: November 23rd 2024
+
 //Description:This is a game called Animal-Match where the user plays and has fun across 
 //various levels matching and getting the fastest time across different levels in a unique
 //animal themed memory game! 
